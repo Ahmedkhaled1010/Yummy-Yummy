@@ -1,0 +1,10 @@
+{
+  "routes": [
+    "/",
+    "/area",
+    "/category",
+    "/home",
+    "/ingredients",
+    "/search"
+  ]
+}
